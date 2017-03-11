@@ -1,0 +1,10 @@
+{
+  "name": "google-assistant-restbus",
+  "description": "RESTful wrapper around the Nextbus API",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Kapil Easwar",
+  "dependencies": {
+    "restbus": "1.1.3"
+  }
+}
